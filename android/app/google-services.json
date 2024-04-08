@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98939857196",
+    "project_id": "nymblemusicapp",
+    "storage_bucket": "nymblemusicapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98939857196:android:d73504cb0d8567e37c2489",
+        "android_client_info": {
+          "package_name": "com.example.nymble_music_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSrF0_xtIeF91kjXoAbqDcqKlVmJ1Ngq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

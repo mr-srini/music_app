@@ -1,0 +1,602 @@
+{
+    "chart_items":
+    [
+        {
+            "_type": "chart_item",
+            "type": "song",
+            "item":
+            {
+                "_type": "song",
+                "annotation_count": 3,
+                "api_path": "/songs/8219798",
+                "artist_names": "Beyoncé",
+                "full_title": "ALIEN SUPERSTAR by Beyoncé",
+                "header_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "id": 8219798,
+                "instrumental": false,
+                "lyrics_owner_id": 8280771,
+                "lyrics_state": "complete",
+                "lyrics_updated_at": 1659090829,
+                "path": "/Beyonce-alien-superstar-lyrics",
+                "pyongs_count": 2,
+                "relationships_index_url": "https://genius.com/Beyonce-alien-superstar-sample",
+                "release_date_components":
+                {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 29
+                },
+                "release_date_for_display": "July 29, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "stats":
+                {
+                    "unreviewed_annotations": 2,
+                    "concurrents": 146,
+                    "hot": true,
+                    "pageviews": 41534
+                },
+                "title": "ALIEN SUPERSTAR",
+                "title_with_featured": "ALIEN SUPERSTAR",
+                "updated_by_human_at": 1659090829,
+                "url": "https://genius.com/Beyonce-alien-superstar-lyrics",
+                "featured_artists":
+                [],
+                "primary_artist":
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/498",
+                    "header_image_url": "https://images.genius.com/ebadbaad543adb319fde483bfcbe7e64.748x1000x1.png",
+                    "id": 498,
+                    "image_url": "https://images.genius.com/6e5ff87606d2765c90be7f3af209b8bf.1000x1000x1.jpg",
+                    "index_character": "b",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beyoncé",
+                    "slug": "Beyonce",
+                    "url": "https://genius.com/artists/Beyonce"
+                }
+            }
+        },
+        {
+            "_type": "chart_item",
+            "type": "song",
+            "item":
+            {
+                "_type": "song",
+                "annotation_count": 2,
+                "api_path": "/songs/8219796",
+                "artist_names": "Beyoncé",
+                "full_title": "I’M THAT GIRL by Beyoncé",
+                "header_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "id": 8219796,
+                "instrumental": false,
+                "lyrics_owner_id": 15949169,
+                "lyrics_state": "complete",
+                "lyrics_updated_at": 1659089020,
+                "path": "/Beyonce-im-that-girl-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Beyonce-im-that-girl-sample",
+                "release_date_components":
+                {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 29
+                },
+                "release_date_for_display": "July 29, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "stats":
+                {
+                    "unreviewed_annotations": 2,
+                    "concurrents": 91,
+                    "hot": true,
+                    "pageviews": 39058
+                },
+                "title": "I’M THAT GIRL",
+                "title_with_featured": "I’M THAT GIRL",
+                "updated_by_human_at": 1659089020,
+                "url": "https://genius.com/Beyonce-im-that-girl-lyrics",
+                "featured_artists":
+                [],
+                "primary_artist":
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/498",
+                    "header_image_url": "https://images.genius.com/ebadbaad543adb319fde483bfcbe7e64.748x1000x1.png",
+                    "id": 498,
+                    "image_url": "https://images.genius.com/6e5ff87606d2765c90be7f3af209b8bf.1000x1000x1.jpg",
+                    "index_character": "b",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beyoncé",
+                    "slug": "Beyonce",
+                    "url": "https://genius.com/artists/Beyonce"
+                }
+            }
+        },
+        {
+            "_type": "chart_item",
+            "type": "song",
+            "item":
+            {
+                "_type": "song",
+                "annotation_count": 2,
+                "api_path": "/songs/8173139",
+                "artist_names": "ROSALÍA",
+                "full_title": "DESPECHÁ by ROSALÍA",
+                "header_image_thumbnail_url": "https://images.genius.com/30b13ae19fb73ace79f542ad3df66c5f.300x300x1.png",
+                "header_image_url": "https://images.genius.com/30b13ae19fb73ace79f542ad3df66c5f.1000x1000x1.png",
+                "id": 8173139,
+                "instrumental": false,
+                "lyrics_owner_id": 5529082,
+                "lyrics_state": "complete",
+                "lyrics_updated_at": 1659090537,
+                "path": "/Rosalia-despecha-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Rosalia-despecha-sample",
+                "release_date_components":
+                {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 28
+                },
+                "release_date_for_display": "July 28, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/30b13ae19fb73ace79f542ad3df66c5f.300x300x1.png",
+                "song_art_image_url": "https://images.genius.com/30b13ae19fb73ace79f542ad3df66c5f.1000x1000x1.png",
+                "stats":
+                {
+                    "unreviewed_annotations": 1,
+                    "concurrents": 42,
+                    "hot": false,
+                    "pageviews": 52540
+                },
+                "title": "DESPECHÁ",
+                "title_with_featured": "DESPECHÁ",
+                "updated_by_human_at": 1659090537,
+                "url": "https://genius.com/Rosalia-despecha-lyrics",
+                "featured_artists":
+                [],
+                "primary_artist":
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/973774",
+                    "header_image_url": "https://images.genius.com/24d5916b5d7d35d3cdfea163a67e5794.1000x370x1.jpg",
+                    "id": 973774,
+                    "image_url": "https://images.genius.com/5a6548b794e70fe88c0ceda716895cd1.619x619x1.jpg",
+                    "index_character": "r",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "ROSALÍA",
+                    "slug": "Rosalia",
+                    "url": "https://genius.com/artists/Rosalia",
+                    "iq": 405
+                }
+            }
+        },
+        {
+            "_type": "chart_item",
+            "type": "song",
+            "item":
+            {
+                "_type": "song",
+                "annotation_count": 3,
+                "api_path": "/songs/8234158",
+                "artist_names": "Huddy",
+                "full_title": "All the Things I Hate About You by Huddy",
+                "header_image_thumbnail_url": "https://images.genius.com/eb76cd2bdea4b027da0ee43a2add4af5.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/eb76cd2bdea4b027da0ee43a2add4af5.1000x1000x1.jpg",
+                "id": 8234158,
+                "instrumental": false,
+                "lyrics_owner_id": 9978425,
+                "lyrics_state": "complete",
+                "lyrics_updated_at": 1659086537,
+                "path": "/Huddy-all-the-things-i-hate-about-you-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Huddy-all-the-things-i-hate-about-you-sample",
+                "release_date_components":
+                {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 29
+                },
+                "release_date_for_display": "July 29, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/eb76cd2bdea4b027da0ee43a2add4af5.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/eb76cd2bdea4b027da0ee43a2add4af5.1000x1000x1.jpg",
+                "stats":
+                {
+                    "unreviewed_annotations": 1,
+                    "concurrents": 69,
+                    "hot": true,
+                    "pageviews": 45620
+                },
+                "title": "All the Things I Hate About You",
+                "title_with_featured": "All the Things I Hate About You",
+                "updated_by_human_at": 1659086537,
+                "url": "https://genius.com/Huddy-all-the-things-i-hate-about-you-lyrics",
+                "featured_artists":
+                [],
+                "primary_artist":
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/2570642",
+                    "header_image_url": "https://images.genius.com/13b8adfa7e7a27af2b1c664336753c65.1000x333x1.jpg",
+                    "id": 2570642,
+                    "image_url": "https://images.genius.com/2266391df104543a8ffe5cda183d3113.1000x1000x1.png",
+                    "index_character": "h",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Huddy",
+                    "slug": "Huddy",
+                    "url": "https://genius.com/artists/Huddy"
+                }
+            }
+        },
+        {
+            "_type": "chart_item",
+            "type": "song",
+            "item":
+            {
+                "_type": "song",
+                "annotation_count": 6,
+                "api_path": "/songs/8219797",
+                "artist_names": "Beyoncé",
+                "full_title": "COZY by Beyoncé",
+                "header_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "id": 8219797,
+                "instrumental": false,
+                "lyrics_owner_id": 15949169,
+                "lyrics_state": "complete",
+                "lyrics_updated_at": 1659091804,
+                "path": "/Beyonce-cozy-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Beyonce-cozy-sample",
+                "release_date_components":
+                {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 29
+                },
+                "release_date_for_display": "July 29, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "stats":
+                {
+                    "unreviewed_annotations": 5,
+                    "concurrents": 86,
+                    "hot": true,
+                    "pageviews": 33775
+                },
+                "title": "COZY",
+                "title_with_featured": "COZY",
+                "updated_by_human_at": 1659091804,
+                "url": "https://genius.com/Beyonce-cozy-lyrics",
+                "featured_artists":
+                [],
+                "primary_artist":
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/498",
+                    "header_image_url": "https://images.genius.com/ebadbaad543adb319fde483bfcbe7e64.748x1000x1.png",
+                    "id": 498,
+                    "image_url": "https://images.genius.com/6e5ff87606d2765c90be7f3af209b8bf.1000x1000x1.jpg",
+                    "index_character": "b",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beyoncé",
+                    "slug": "Beyonce",
+                    "url": "https://genius.com/artists/Beyonce"
+                }
+            }
+        },
+        {
+            "_type": "chart_item",
+            "type": "song",
+            "item":
+            {
+                "_type": "song",
+                "annotation_count": 3,
+                "api_path": "/songs/8219837",
+                "artist_names": "Beyoncé",
+                "full_title": "CHURCH GIRL by Beyoncé",
+                "header_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "id": 8219837,
+                "instrumental": false,
+                "lyrics_owner_id": 8280771,
+                "lyrics_state": "complete",
+                "lyrics_updated_at": 1659070215,
+                "path": "/Beyonce-church-girl-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Beyonce-church-girl-sample",
+                "release_date_components":
+                {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 29
+                },
+                "release_date_for_display": "July 29, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "stats":
+                {
+                    "unreviewed_annotations": 1,
+                    "concurrents": 93,
+                    "hot": true,
+                    "pageviews": 33502
+                },
+                "title": "CHURCH GIRL",
+                "title_with_featured": "CHURCH GIRL",
+                "updated_by_human_at": 1659081149,
+                "url": "https://genius.com/Beyonce-church-girl-lyrics",
+                "featured_artists":
+                [],
+                "primary_artist":
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/498",
+                    "header_image_url": "https://images.genius.com/ebadbaad543adb319fde483bfcbe7e64.748x1000x1.png",
+                    "id": 498,
+                    "image_url": "https://images.genius.com/6e5ff87606d2765c90be7f3af209b8bf.1000x1000x1.jpg",
+                    "index_character": "b",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beyoncé",
+                    "slug": "Beyonce",
+                    "url": "https://genius.com/artists/Beyonce"
+                }
+            }
+        },
+        {
+            "_type": "chart_item",
+            "type": "song",
+            "item":
+            {
+                "_type": "song",
+                "annotation_count": 2,
+                "api_path": "/songs/8219831",
+                "artist_names": "Beyoncé (Ft. BEAM)",
+                "full_title": "ENERGY by Beyoncé (Ft. BEAM)",
+                "header_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "id": 8219831,
+                "instrumental": false,
+                "lyrics_owner_id": 8280771,
+                "lyrics_state": "complete",
+                "lyrics_updated_at": 1659083190,
+                "path": "/Beyonce-energy-lyrics",
+                "pyongs_count": 1,
+                "relationships_index_url": "https://genius.com/Beyonce-energy-sample",
+                "release_date_components":
+                {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 29
+                },
+                "release_date_for_display": "July 29, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "stats":
+                {
+                    "unreviewed_annotations": 0,
+                    "concurrents": 62,
+                    "hot": true,
+                    "pageviews": 30908
+                },
+                "title": "ENERGY",
+                "title_with_featured": "ENERGY (Ft. BEAM)",
+                "updated_by_human_at": 1659085453,
+                "url": "https://genius.com/Beyonce-energy-lyrics",
+                "featured_artists":
+                [
+                    {
+                        "_type": "artist",
+                        "api_path": "/artists/126352",
+                        "header_image_url": "https://images.genius.com/4de03976e34cdda5e129dd5825ccc9b2.1000x333x1.jpg",
+                        "id": 126352,
+                        "image_url": "https://images.genius.com/85d967393c67b37df47f78720991d366.1000x1000x1.jpg",
+                        "index_character": "b",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "BEAM",
+                        "slug": "Beam",
+                        "url": "https://genius.com/artists/Beam",
+                        "iq": 1584
+                    }
+                ],
+                "primary_artist":
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/498",
+                    "header_image_url": "https://images.genius.com/ebadbaad543adb319fde483bfcbe7e64.748x1000x1.png",
+                    "id": 498,
+                    "image_url": "https://images.genius.com/6e5ff87606d2765c90be7f3af209b8bf.1000x1000x1.jpg",
+                    "index_character": "b",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beyoncé",
+                    "slug": "Beyonce",
+                    "url": "https://genius.com/artists/Beyonce"
+                }
+            }
+        },
+        {
+            "_type": "chart_item",
+            "type": "song",
+            "item":
+            {
+                "_type": "song",
+                "annotation_count": 1,
+                "api_path": "/songs/8219830",
+                "artist_names": "Beyoncé",
+                "full_title": "CUFF IT by Beyoncé",
+                "header_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "id": 8219830,
+                "instrumental": false,
+                "lyrics_owner_id": 8280771,
+                "lyrics_state": "complete",
+                "lyrics_updated_at": 1659088878,
+                "path": "/Beyonce-cuff-it-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Beyonce-cuff-it-sample",
+                "release_date_components":
+                {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 29
+                },
+                "release_date_for_display": "July 29, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "stats":
+                {
+                    "unreviewed_annotations": 0,
+                    "concurrents": 98,
+                    "hot": true,
+                    "pageviews": 31113
+                },
+                "title": "CUFF IT",
+                "title_with_featured": "CUFF IT",
+                "updated_by_human_at": 1659091698,
+                "url": "https://genius.com/Beyonce-cuff-it-lyrics",
+                "featured_artists":
+                [],
+                "primary_artist":
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/498",
+                    "header_image_url": "https://images.genius.com/ebadbaad543adb319fde483bfcbe7e64.748x1000x1.png",
+                    "id": 498,
+                    "image_url": "https://images.genius.com/6e5ff87606d2765c90be7f3af209b8bf.1000x1000x1.jpg",
+                    "index_character": "b",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beyoncé",
+                    "slug": "Beyonce",
+                    "url": "https://genius.com/artists/Beyonce"
+                }
+            }
+        },
+        {
+            "_type": "chart_item",
+            "type": "song",
+            "item":
+            {
+                "_type": "song",
+                "annotation_count": 0,
+                "api_path": "/songs/8219841",
+                "artist_names": "Beyoncé",
+                "full_title": "VIRGO'S GROOVE by Beyoncé",
+                "header_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "id": 8219841,
+                "instrumental": false,
+                "lyrics_owner_id": 8280771,
+                "lyrics_state": "complete",
+                "lyrics_updated_at": 1659074881,
+                "path": "/Beyonce-virgos-groove-lyrics",
+                "pyongs_count": 5,
+                "relationships_index_url": "https://genius.com/Beyonce-virgos-groove-sample",
+                "release_date_components":
+                {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 29
+                },
+                "release_date_for_display": "July 29, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "stats":
+                {
+                    "unreviewed_annotations": 0,
+                    "concurrents": 81,
+                    "hot": true,
+                    "pageviews": 29012
+                },
+                "title": "VIRGO’S GROOVE",
+                "title_with_featured": "VIRGO'S GROOVE",
+                "updated_by_human_at": 1659074881,
+                "url": "https://genius.com/Beyonce-virgos-groove-lyrics",
+                "featured_artists":
+                [],
+                "primary_artist":
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/498",
+                    "header_image_url": "https://images.genius.com/ebadbaad543adb319fde483bfcbe7e64.748x1000x1.png",
+                    "id": 498,
+                    "image_url": "https://images.genius.com/6e5ff87606d2765c90be7f3af209b8bf.1000x1000x1.jpg",
+                    "index_character": "b",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beyoncé",
+                    "slug": "Beyonce",
+                    "url": "https://genius.com/artists/Beyonce"
+                }
+            }
+        },
+        {
+            "_type": "chart_item",
+            "type": "song",
+            "item":
+            {
+                "_type": "song",
+                "annotation_count": 5,
+                "api_path": "/songs/8219800",
+                "artist_names": "Beyoncé",
+                "full_title": "THIQUE by Beyoncé",
+                "header_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "header_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "id": 8219800,
+                "instrumental": false,
+                "lyrics_owner_id": 8280771,
+                "lyrics_state": "complete",
+                "lyrics_updated_at": 1659092223,
+                "path": "/Beyonce-thique-lyrics",
+                "pyongs_count": 4,
+                "relationships_index_url": "https://genius.com/Beyonce-thique-sample",
+                "release_date_components":
+                {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 29
+                },
+                "release_date_for_display": "July 29, 2022",
+                "song_art_image_thumbnail_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.300x300x1.jpg",
+                "song_art_image_url": "https://images.genius.com/25f7450d84a95225c33e8de77ce2c6b7.1000x1000x1.jpg",
+                "stats":
+                {
+                    "unreviewed_annotations": 4,
+                    "concurrents": 79,
+                    "hot": true,
+                    "pageviews": 27540
+                },
+                "title": "THIQUE",
+                "title_with_featured": "THIQUE",
+                "updated_by_human_at": 1659092223,
+                "url": "https://genius.com/Beyonce-thique-lyrics",
+                "featured_artists":
+                [],
+                "primary_artist":
+                {
+                    "_type": "artist",
+                    "api_path": "/artists/498",
+                    "header_image_url": "https://images.genius.com/ebadbaad543adb319fde483bfcbe7e64.748x1000x1.png",
+                    "id": 498,
+                    "image_url": "https://images.genius.com/6e5ff87606d2765c90be7f3af209b8bf.1000x1000x1.jpg",
+                    "index_character": "b",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beyoncé",
+                    "slug": "Beyonce",
+                    "url": "https://genius.com/artists/Beyonce"
+                }
+            }
+        }
+    ],
+    "next_page": 2
+}
